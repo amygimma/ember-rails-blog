@@ -1,0 +1,10 @@
+== Ember with Rails 
+
+* rails 4 
+
+* ember
+
+* handelbars
+
+* coffeescript
+
