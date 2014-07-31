@@ -13,4 +13,8 @@
 //= require jquery
 //= require jquery_ujs
 //= require turbolinks
+//= require moment
+//= requre ember_application
 //= require_tree .
+
+

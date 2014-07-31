@@ -6,6 +6,10 @@ gem 'rails', '4.0.5'
 gem 'ember-rails'
 gem 'ember-source'
 gem 'handlebars-source'
+gem 'momentjs-rails'
+
+gem 'bootstrap-sass'
+gem 'autoprefixer-rails'
 
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
